@@ -51,7 +51,7 @@ ENDC
 
 IF DEF(_YELLOW)
 _OaksLabPikachuText::
-	text "OAK: Go ahead,"
+	text "KHAN: Go ahead,"
 	line "it's yours!"
 	done
 ENDC
@@ -91,13 +91,13 @@ _OaksLabLastMonText:: ; 94eb6 (25:4eb6)
 	done
 
 _OaksLabText_1d2f0:: ; 94ed2 (25:4ed2)
-	text "OAK: Now, ", $52, ","
+	text "KHAN: Now, ", $52, ","
 	line "which #MON do"
 	cont "you want?"
 	done
 
 _OaksLabText_1d2f5:: ; 94ef8 (25:4ef8)
-	text "OAK: If a wild"
+	text "KHAN: If a wild"
 	line "#MON appears,"
 	cont "your #MON can"
 	cont "fight against it!"
@@ -110,12 +110,12 @@ ENDC
 
 _OaksLabText_1d2fa:: ; 94f36 (25:4f36)
 IF DEF(_YELLOW)
-	text "OAK: You should"
+	text "KHAN: You should"
 	line "talk to it and"
 	cont "see how it feels."
 	done
 ELSE
-	text "OAK: ", $52, ","
+	text "KHAN: ", $52, ","
 	line "raise your young"
 	cont "#MON by making"
 	cont "it fight!"
@@ -123,7 +123,7 @@ ELSE
 ENDC
 
 _OaksLabDeliverParcelText1:: ; 94f69 (25:4f69)
-	text "OAK: Oh, ", $52, "!"
+	text "KHAN: Oh, ", $52, "!"
 
 	para "How is my old"
 	line "#MON?"
@@ -164,9 +164,9 @@ _OaksLabAroundWorldText:: ; 95045 (25:5045)
 	done
 
 _OaksLabGivePokeballsText1:: ; 9506d (25:506d)
-	text "OAK: You can't get"
-	line "detailed data on"
-	cont "#MON by just"
+	text "KHAN: You can't"
+	line "get detailed data"
+	cont "on #MON by just"
 	cont "seeing them."
 
 	para "You must catch"
@@ -201,7 +201,7 @@ ENDC
 	done
 
 _OaksLabPleaseVisitText:: ; 9519e (25:519e)
-	text "OAK: Come see me"
+	text "KHAN: Come see me"
 	line "sometimes."
 
 	para "I want to know how"
@@ -210,7 +210,7 @@ _OaksLabPleaseVisitText:: ; 9519e (25:519e)
 	done
 
 _OaksLabText_1d31d:: ; 951e9 (25:51e9)
-	text "OAK: Good to see "
+	text "KHAN: Good to see "
 	line "you! How is your "
 	cont "#DEX coming? "
 	cont "Here, let me take"
@@ -245,7 +245,7 @@ _OaksLabRivalWaitingText:: ; 952bb (25:52bb)
 
 _OaksLabChooseMonText:: ; 952df (25:52df)
 IF DEF(_YELLOW)
-	text "OAK: Hmm? ",$53,"?"
+	text "KHAN: Hmm? ",$53,"?"
 	line "Why are you here"
 	cont "already?"
 
@@ -267,7 +267,7 @@ IF DEF(_YELLOW)
 	line "Go on, take it!"
 	done
 ELSE
-	text "OAK: ", $53, "?"
+	text "KHAN: ", $53, "?"
 	line "Let me think..."
 
 	para "Oh, that's right,"
@@ -303,12 +303,12 @@ _OaksLabRivalInterjectionText:: ; 953dc (25:53dc)
 
 _OaksLabBePatientText:: ; 953fc (25:53fc)
 IF DEF(_YELLOW)
-	text "OAK: Be patient,"
+	text "KHAN: Be patient,"
 	line $53,", I'll give"
 	cont "you one later."
 	done
 ELSE
-	text "OAK: Be patient!"
+	text "KHAN: Be patient!"
 	line $53, ", you can"
 	cont "have one too!"
 	done
@@ -326,7 +326,7 @@ _OaksLabRivalTakesText2::
 	line "the #MON!@@"
 
 _OaksLabRivalTakesText3::
-	text "OAK: ",$53,"! What"
+	text "KHAN: ",$53,"! What"
 	line "are you doing?"
 	prompt
 
@@ -336,7 +336,7 @@ _OaksLabRivalTakesText4::
 	prompt
 
 _OaksLabRivalTakesText5::
-	text "OAK: But, I... Oh,"
+	text "KHAN: But, I... Oh,"
 	line "all right then."
 	cont "That #MON is"
 	cont "yours."
@@ -350,7 +350,7 @@ _OaksLabRivalTakesText5::
 	done
 
 _OaksLabOakGivesText::
-	text "OAK: ",$52,", this"
+	text "KHAN: ",$52,", this"
 	line "is the #MON I"
 	cont "caught earlier."
 
@@ -368,7 +368,7 @@ _OaksLabReceivedText::
 ENDC
 
 _OaksLabLeavingText:: ; 95427 (25:5427)
-	text "OAK: Hey! Don't go"
+	text "KHAN: Hey! Don't go"
 	line "away yet!"
 	done
 
@@ -417,11 +417,11 @@ _OaksLabRivalToughenUpText:: ; 95502 (25:5502)
 
 IF DEF(_YELLOW)
 _OaksLabPikachuDislikesPokeballsText1::
-	text "OAK: What?"
+	text "KHAN: What?"
 	done
 
 _OaksLabPikachuDislikesPokeballsText2::
-	text "OAK: Would you"
+	text "KHAN: Would you"
 	line "look at that!"
 
 	para "It's odd, but it"
@@ -460,7 +460,7 @@ ENDC
 
 _OaksLabText23:: ; 9557b (25:557b)
 IF DEF(_YELLOW)
-	text "OAK: Ah, ",$53,","
+	text "KHAN: Ah, ",$53,","
 	line "good timing!"
 
 	para "I needed to ask"
@@ -468,7 +468,7 @@ IF DEF(_YELLOW)
 	cont "something for me."
 	done
 ELSE
-	text "OAK: Oh right! I"
+	text "KHAN: Oh right! I"
 	line "have a request"
 	cont "of you two."
 	done
@@ -489,7 +489,7 @@ _OaksLabText24:: ; 955a8 (25:55a8)
 	done
 
 _OaksLabText25:: ; 9562a (25:562a)
-	text "OAK: ", $52, " and"
+	text "KHAN: ", $52, " and"
 	line $53, "! Take"
 	cont "these with you!"
 
@@ -668,4 +668,3 @@ ELSE
 ENDC
 	cont "Congratulations!"
 	done
-

@@ -82,11 +82,11 @@ _GaryText_76103:: ; 8632f (21:632f)
 	done
 
 _GaryText2:: ; 863c1 (21:63c1)
-	text "OAK: ", $52, "!"
+	text "KHAN: ", $52, "!"
 	done
 
 _GaryText_76120:: ; 863ca (21:63ca)
-	text "OAK: So, you won!"
+	text "KHAN: So, you won!"
 	line "Congratulations!"
 	cont "You're the new"
 	cont "#MON LEAGUE"
@@ -104,7 +104,7 @@ _GaryText_76120:: ; 863ca (21:63ca)
 	done
 
 _GaryText_76125:: ; 86463 (21:6463)
-	text "OAK: ", $53, "! I'm"
+	text "KHAN: ", $53, "! I'm"
 	line "disappointed!"
 
 	para "I came when I"
@@ -130,7 +130,7 @@ _GaryText_76125:: ; 86463 (21:6463)
 	done
 
 _GaryText_7612a:: ; 86567 (21:6567)
-	text "OAK: ", $52, "!"
+	text "KHAN: ", $52, "!"
 
 	para "You understand"
 	line "that your victory"

@@ -1,9 +1,9 @@
 _OakAppearsText::
-	text "OAK: Hey! Wait!"
+	text "KHAN: Hey! Wait!"
 	line "Don't go out!@@"
 
 _OakWalksUpText::
-	text "OAK: It's unsafe!"
+	text "KHAN: It's unsafe!"
 	line "Wild #MON live"
 	cont "in tall grass!"
 

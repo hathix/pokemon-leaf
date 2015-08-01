@@ -1,5 +1,5 @@
 _HallofFameRoomText1:: ; 85fb5 (21:5fb5)
-	text "OAK: Er-hem!"
+	text "KHAN: Er-hem!"
 IF DEF(_YELLOW)
 	line "Congratulations,"
 ELSE
