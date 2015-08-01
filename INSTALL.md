@@ -33,7 +33,7 @@ In the shell, run:
 	sudo make install
 	cd ..
 
-	git clone --recursive git://github.com/iimarckus/pokered.git
+	git clone --recursive git://github.com/hathix/pokemon-leaf.git
 	cd pokered
 
 	make
