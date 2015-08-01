@@ -34,7 +34,7 @@ In the shell, run:
 	cd ..
 
 	git clone --recursive git://github.com/hathix/pokemon-leaf.git
-	cd pokered
+	cd pokemon-leaf
 
 	make
 
