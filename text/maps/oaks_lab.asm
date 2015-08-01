@@ -110,15 +110,16 @@ ENDC
 
 _OaksLabText_1d2fa:: ; 94f36 (25:4f36)
 IF DEF(_YELLOW)
-	text "KHAN: You should"
-	line "talk to it and"
-	cont "see how it feels."
+	text "KHAN: ", $52, ","
+	line "remember -- you"
+	cont "can learn"
+	cont "anything!"
 	done
 ELSE
 	text "KHAN: ", $52, ","
-	line "raise your young"
-	cont "#MON by making"
-	cont "it fight!"
+	line "remember: you"
+	cont "can learn"
+	cont "anything!"
 	done
 ENDC
 

@@ -38,13 +38,13 @@ _Route1Text2:: ; 8d69f (23:569f)
 	cont "from them."
 
 	para "You can get back"
-	line "to PALLET TOWN"
+	line "to MOUNTAIN VIEW"
 	cont "quicker that way."
 	done
 
 _Route1Text3:: ; 8d720 (23:5720)
 	text "ROUTE 1"
-	line "PALLET TOWN -"
+	line "MOUNTAIN VIEW -"
 	cont "VIRIDIAN CITY"
 	done
 

@@ -1,6 +1,6 @@
 MapNames: ; 71473 (1c:5473)
 PalletTownName: ; 71473 (1c:5473)
-	db "PALLET TOWN@"
+	db "MOUNTAIN VIEW@"
 ViridianCityName: ; 7147f (1c:547f)
 	db "VIRIDIAN CITY@"
 PewterCityName: ; 7148d (1c:548d)

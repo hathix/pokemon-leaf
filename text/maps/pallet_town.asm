@@ -36,14 +36,18 @@ _PalletTownText3::
 	done
 
 _PalletTownText4::
-	text "OAK #MON"
-	line "RESEARCH LAB"
+	text "KHAN ACADEMY"
+	line "A free, world-"
+	cont "class education"
+	cont "for anyone,"
+	cont "anywhere!"
 	done
 
 _PalletTownText5::
-	text "PALLET TOWN"
-	line "Shades of your"
-	cont "journey await!"
+	text "MOUNTAIN VIEW"
+	line "Your educat-"
+	cont "ional adventure"
+	cont "begins here!"
 	done
 
 _PalletTownText6::
@@ -53,4 +57,3 @@ _PalletTownText6::
 _PalletTownText7::
 	text $53,"'s house "
 	done
-

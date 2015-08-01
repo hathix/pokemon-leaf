@@ -23,7 +23,7 @@ _ViridianMartText1:: ; 95c36 (25:5c36)
 
 _ViridianMartText4:: ; 95c58 (25:5c58)
 	text "Hey! You came from"
-	line "PALLET TOWN?"
+	line "MOUNTAIN VIEW?"
 	done
 
 ViridianMartParcelQuestText:: ; 95c79 (25:5c79)
