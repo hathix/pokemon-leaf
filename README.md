@@ -22,7 +22,7 @@ For Macs, I recommend [OpenEmu](http://openemu.org/) for emulating these games.
 ![Screenshot](screenshots/professor-khan.png)
 
 ### Avatars are Pokémon
-![Screenshot](screenshots/sample-Pokémon.png)
+![Screenshot](screenshots/sample-pokemon.png)
 
 ### Choosing your name
 ![Screenshot](screenshots/player-name.png)
@@ -46,7 +46,7 @@ For Macs, I recommend [OpenEmu](http://openemu.org/) for emulating these games.
 ![Screenshot](screenshots/piceratops.png)
 
 ### Receiving your starter Pokémon
-![Screenshot](screenshots/picking-Pokémon.png)
+![Screenshot](screenshots/picking-pokemon.png)
 
 ### Rival challenging you
 ![Screenshot](screenshots/battle-challenge.png)
