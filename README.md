@@ -9,6 +9,12 @@ It builds the following roms:
 
 To set up the repository, see [**INSTALL.md**](INSTALL.md).
 
+# Playing
+
+Building the game will result in `pokered.gbc` and `pokeblue.gbc`. Play either, whatever you like.
+
+For Macs, I recommend [OpenEmu](http://openemu.org/) for emulating these games.
+
 
 ## See also
 
