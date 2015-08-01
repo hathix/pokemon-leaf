@@ -117,7 +117,7 @@ IF DEF(_YELLOW)
 	done
 ELSE
 	text "KHAN: ", $52, ","
-	line "remember: you"
+	line "remember -- you"
 	cont "can learn"
 	cont "anything!"
 	done
