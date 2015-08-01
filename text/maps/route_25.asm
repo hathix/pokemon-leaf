@@ -4,7 +4,7 @@ _Route25DamianText1::
 	line "raising #MON."
 
 	para "I should release"
-	line "my CHARMANDER"
+	line "my PICERATOPS"
 	cont "because I haven't"
 	cont "raised it well..."
 
@@ -15,7 +15,7 @@ _Route25DamianText1::
 
 _Route25DamianText2::
 	text "Take good care of"
-	line "my CHARMANDER!@@"
+	line "my PICERATOPS!@@"
 
 _Route25DamianText3::
 	text "Oh... I'd better"
@@ -23,7 +23,7 @@ _Route25DamianText3::
 	done
 
 _Route25DamianText4::
-	text "How's CHARMANDER"
+	text "How's PICERATOPS"
 	line "doing?"
 	done
 ENDC

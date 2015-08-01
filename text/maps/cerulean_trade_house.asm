@@ -1,7 +1,7 @@
 IF DEF(_YELLOW)
 MelanieText1::
 	text "I nursed this"
-	line "BULBASAUR back to"
+	line "LEAFERS back to"
 	cont "health."
 
 	para "It needs a good"
@@ -11,15 +11,15 @@ MelanieText1::
 MelanieText2::
 	text "I know! Would you"
 	line "take care of this"
-	cont "BULBASAUR?"
+	cont "LEAFERS?"
 	done
 
 MelanieText3::
 	text "Please take care"
-	line "of BULBASAUR!@@"
+	line "of LEAFERS!@@"
 
 MelanieText4::
-	text "Is BULBASAUR"
+	text "Is LEAFERS"
 	line "doing well?@@"
 
 MelanieText5::
@@ -27,7 +27,7 @@ MelanieText5::
 	line "That's too bad...@@"
 
 MelanieBulbasaurText::
-	text "BULBASAUR: Bubba!"
+	text "LEAFERS: Bubba!"
 	line "Zoar!@@"
 
 MelanieOddishText::
