@@ -197,18 +197,18 @@ DefaultNamesPlayer: ; 6aa8 (1:6aa8)
 
 DefaultNamesRival: ; 6abe (1:6abe)
 	db   "NEW NAME"
-	next "CSILVERS"
-	next "RESIG"
-	next "DESMOND"
+	next "SHANTANU"
+	next "BILL"
+	next "ESTHER"
 	db   "@"
 ENDC
 
 IF DEF(_BLUE)
 DefaultNamesPlayer: ; 6aa8 (1:6aa8)
 	db   "NEW NAME"
-	next "CSILVERS"
-	next "RESIG"
-	next "DESMOND"
+	next "SHANTANU"
+	next "BILL"
+	next "ESTHER"
 	db   "@"
 
 DefaultNamesRival: ; 6abe (1:6abe)
@@ -229,9 +229,9 @@ DefaultNamesPlayer:
 
 DefaultNamesRival:
 	db   "NEW NAME"
-	next "CSILVERS"
-	next "RESIG"
-	next "DESMOND"
+	next "SHANTANU"
+	next "BILL"
+	next "ESTHER"
 	db   "@"
 ENDC
 
@@ -263,11 +263,11 @@ IF DEF(_RED)
 DefaultNamesPlayerList: ; 6af2 (1:6af2)
 	db "NEW NAME@MARCIA@KAMENS@EATER@"
 DefaultNamesRivalList: ; 6b08 (1:6b08)
-	db "NEW NAME@CSILVERS@RESIG@DESMOND@"
+	db "NEW NAME@SHANTANU@BILL@ESTHER@"
 ENDC
 IF DEF(_BLUE)
 DefaultNamesPlayerList: ; 6af2 (1:6af2)
-	db "NEW NAME@CSILVERS@RESIG@DESMOND@"
+	db "NEW NAME@SHANTANU@BILL@ESTHER@"
 DefaultNamesRivalList: ; 6b08 (1:6b08)
 	db "NEW NAME@MARCIA@KAMENS@EATER@"
 ENDC
@@ -275,7 +275,7 @@ IF DEF(_YELLOW)
 DefaultNamesPlayerList:
 	db "NEW NAME@MARCIA@KAMENS@EATER@"
 DefaultNamesRivalList:
-	db "NEW NAME@CSILVERS@RESIG@DESMOND@"
+	db "NEW NAME@SHANTANU@BILL@ESTHER@"
 ENDC
 
 TextTerminator_6b20: ; 6b20 (1:6b20)
