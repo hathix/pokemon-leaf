@@ -894,7 +894,7 @@ _EkansDexEntry::
 	next "Eats the eggs of"
 
 	page "birds, such as"
-	next "PIDGEY and"
+	next "OHNOES and"
 	next "SPEAROW, whole"
 	dex
 
@@ -1507,4 +1507,3 @@ _VictreebelDexEntry::
 	next "has ever returned"
 	next "from there"
 	dex
-

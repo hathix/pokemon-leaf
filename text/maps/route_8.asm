@@ -87,8 +87,8 @@ _Route8EndBattleText6:: ; 8e0b8 (23:60b8)
 	prompt
 
 _Route8AfterBattleText6:: ; 8e0bf (23:60bf)
-	text "I think PIDGEY"
-	line "and RATTATA"
+	text "I think OHNOES"
+	line "and HOPPER"
 	cont "are cute too!"
 	done
 

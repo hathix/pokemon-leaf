@@ -153,7 +153,7 @@ _Route13EndBattleText11:: ; 90741 (24:4741)
 
 _Route13AfterBattleText11:: ; 90750 (24:4750)
 	text "I wish I could"
-	line "fly like PIDGEY"
+	line "fly like OHNOES"
 	cont "and PIDGEOTTO..."
 	done
 

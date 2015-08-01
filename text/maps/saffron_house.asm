@@ -8,7 +8,7 @@ _SaffronHouse1Text1:: ; a2305 (28:6305)
 	done
 
 _SaffronHouse1Text2:: ; a2352 (28:6352)
-	text "PIDGEY: Kurukkoo!@@"
+	text "OHNOES: Kurukkoo!@@"
 
 _SaffronHouse1Text3:: ; a2366 (28:6366)
 	text "The COPYCAT is"

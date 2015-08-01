@@ -16,7 +16,7 @@ IF DEF(_YELLOW)
 	cont "VIRIDIAN FOREST."
 	done
 ELSE
-	text "RATTATA may be"
+	text "HOPPER may be"
 	line "small, but its"
 	cont "bite is wicked!"
 	cont "Did you get one?"
