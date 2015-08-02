@@ -1,5 +1,7 @@
 # Pokémon Leaf Edition
 
+> **tl;dr — [Play it!](https://github.com/hathix/pokemon-leaf/raw/master/dist/dist-red.gbc)**
+
 A rebuilt version of Pokémon Red, but with a [Khan Academy](https://khanacademy.org) theme!
 
 Created at Khan Academy's 4th annual Healthy Hackathon. I created this once I noticed that someone had published a disassembled version of Pokémon and that Khan Academy avatars strongly resembled Pokémon.
